@@ -13,8 +13,8 @@
  
 ## 📫 How to reach me: 
 
-    - [Linkedin](https://www.linkedin.com/in/alfredo-portocarrero/) 
-    - [Instagram](https://www.instagram.com/alfredoporto.4/)
+    - [Linkedin](linkedin.com/in/alfredo-portocarrero/) 
+    - [Instagram](instagram.com/alfredoporto.4/)
 
 <!---
 alfredoporto/alfredoporto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
