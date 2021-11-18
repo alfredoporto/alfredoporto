@@ -12,6 +12,14 @@ The thing I love the most about software engineering is that there's always some
 - [Linkedin](linkedin.com/in/alfredo-portocarrero) 
 - [Instagram](instagram.com/alfredoporto.4)
 
+## Experience
+
+- Programming: 
+- Javascript:
+- CSS:
+- HTML:
+- Git:
+
 <!---
 alfredoporto/alfredoporto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
